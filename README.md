@@ -1,4 +1,4 @@
-# test-markup
+# Pure CSS menu navigation test markup
 
 Installation
 ------------
